@@ -107,7 +107,7 @@ install.packages(c("openxlsx", "dplyr", "tidyr"))
 * Click on **Clone Repository** and paste the URL:
 
 ```
-https://github.com/username/SOC_ESM_Calculations.git
+[https://github.com/username/SOC_ESM_Calculations.git](https://github.com/AlyssonJalles/SOC-ESM.git)
 ```
 
 Choose a directory where the project will be saved, and VS Code will automatically open it.
@@ -116,8 +116,8 @@ Choose a directory where the project will be saved, and VS Code will automatical
    Clone the repository using the terminal:
 
 ```
-git clone https://github.com/username/SOC_ESM_Calculations.git
-cd SOC_ESM_Calculations
+git clone [https://github.com/username/SOC_ESM_Calculations.git](https://github.com/AlyssonJalles/SOC-ESM.git)
+cd SOC-ESM
 ```
 
 ---
