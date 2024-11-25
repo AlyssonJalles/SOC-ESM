@@ -10,7 +10,7 @@ This repository provides tools for **Equivalent Soil Mass (ESM)** and the tradit
 
 ---
 
-<img src="assets/images/ESM_img.png" width="70%"/>
+<img src="assets/images/ESM_img.png" width="90%"/>
 
 **Figure 1.** (**a**) Example of pedon alteration due to changes in bulk density over time showing the position of the soil sampling device from the soil surface to the same fixed depth. (**b**) Example of pedon after the correction showing the difference in air space, while the soil mass remains constant (ESM method). [source](https://www.nature.com/articles/s41598-023-29289-2)
 
